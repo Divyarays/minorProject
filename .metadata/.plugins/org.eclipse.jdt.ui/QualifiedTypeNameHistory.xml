@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.rays.pro4.Exception.RecordNotFoundException"/>
+    <fullyQualifiedTypeName name="com.rays.pro4.Exception.ApplicationException"/>
+    <fullyQualifiedTypeName name="com.rays.pro4.Bean.CollegeBean"/>
+    <fullyQualifiedTypeName name="com.rays.pro4.Bean.BaseBean"/>
+    <fullyQualifiedTypeName name="com.rays.pro4.Model.CollegeModel"/>
+    <fullyQualifiedTypeName name="com.rays.pro4.controller.ORSView"/>
+    <fullyQualifiedTypeName name="com.rays.pro4.controller.BaseCtl"/>
+</qualifiedTypeNameHistroy>

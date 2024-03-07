@@ -1,0 +1,908 @@
+
+Mar 22, 2023 17:10:56.04 NEW SESSION
+Mar 22, 2023 17:10:56.04 [18080:20692:0322/171056.039:ERROR:device_event_log_impl.cc(222)] [17:10:56.037] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 22, 2023 17:10:56.04 [18080:20692:0322/171056.039:ERROR:device_event_log_impl.cc(222)] [17:10:56.038] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 22, 2023 17:10:56.27 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 22, 2023 17:11:12.49 [18080:18932:0322/171112.492:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 22, 2023 17:11:16.58 [18080:3820:0322/171116.585:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Mar 22, 2023 17:11:26.57 [18080:3284:0322/171126.575:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Mar 22, 2023 17:11:26.58 [18080:3284:0322/171126.588:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Mar 22, 2023 17:11:26.59 [18080:18932:0322/171126.594:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -109
+Mar 22, 2023 17:11:37.88 [18080:18932:0322/171137.879:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 22, 2023 17:14:39.87 [18080:18932:0322/171439.877:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 22, 2023 17:17:02.77 [18080:18932:0322/171702.768:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 22, 2023 17:17:28.42 [18080:18932:0322/171728.426:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 22, 2023 17:17:31.04 [18080:18932:0322/171731.042:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 22, 2023 17:18:03.91 [18080:18932:0322/171803.913:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 22, 2023 17:19:53.65 [18080:18932:0322/171953.652:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 22, 2023 17:21:16.44 [18080:18932:0322/172116.439:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 22, 2023 17:21:24.06 [18080:18932:0322/172124.064:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 22, 2023 17:22:37.44 [18080:18932:0322/172237.441:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 22, 2023 17:22:58.39 [18080:18932:0322/172258.388:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 22, 2023 17:25:13.38 [18080:18932:0322/172513.386:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 22, 2023 17:25:13.41 [18080:18932:0322/172513.409:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 22, 2023 17:39:17.55 [18080:18932:0322/173917.554:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 22, 2023 17:46:17.38 [18080:18932:0322/174617.385:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 22, 2023 17:49:51.01 [18080:18932:0322/174951.015:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 22, 2023 17:49:56.46 [18080:18932:0322/174956.468:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -109
+Mar 22, 2023 17:49:56.93 [18080:18932:0322/174956.931:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -109
+Mar 22, 2023 17:50:05.96 [18080:18932:0322/175005.965:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -109
+Mar 22, 2023 17:53:41.78 [18080:18932:0322/175341.786:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -109
+
+Mar 24, 2023 12:48:53.60 NEW SESSION
+Mar 24, 2023 12:48:53.60 [21148:19172:0324/124853.604:ERROR:device_event_log_impl.cc(222)] [12:48:53.603] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 24, 2023 12:48:53.60 [21148:19172:0324/124853.604:ERROR:device_event_log_impl.cc(222)] [12:48:53.604] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 24, 2023 12:48:54.15 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Mar 30, 2023 17:58:47.89 NEW SESSION
+Mar 30, 2023 17:58:47.89 [16164:1860:0330/175847.893:ERROR:device_event_log_impl.cc(222)] [17:58:47.894] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 30, 2023 17:58:47.89 [16164:1860:0330/175847.893:ERROR:device_event_log_impl.cc(222)] [17:58:47.894] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 30, 2023 17:58:47.94 [16164:3460:0330/175847.939:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 30, 2023 17:58:48.54 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 30, 2023 17:59:01.90 [16164:3460:0330/175901.902:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 30, 2023 17:59:19.45 [16164:1860:0330/175919.457:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 30, 2023 18:00:01.13 [16164:3460:0330/180001.130:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 30, 2023 18:01:30.02 [16164:3460:0330/180130.021:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 30, 2023 18:05:23.15 [16164:3460:0330/180523.159:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 30, 2023 18:12:23.51 [16164:3460:0330/181223.519:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 30, 2023 18:22:23.53 [16164:3460:0330/182223.533:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 30, 2023 18:32:23.54 [16164:3460:0330/183223.547:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 30, 2023 19:10:21.21 [7244:1320:0330/191021.213:ERROR:device_event_log_impl.cc(222)] [19:10:21.214] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 30, 2023 19:10:21.21 [7244:1320:0330/191021.213:ERROR:device_event_log_impl.cc(222)] [19:10:21.215] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 30, 2023 19:10:21.44 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 30, 2023 19:26:58.68 [7244:10344:0330/192658.686:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 30, 2023 19:27:24.08 [7244:10344:0330/192724.081:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 30, 2023 19:28:09.26 [7244:10344:0330/192809.264:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 30, 2023 19:30:07.30 [7244:10344:0330/193007.302:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Mar 31, 2023 16:56:27.45 NEW SESSION
+Mar 31, 2023 16:56:27.45 [11424:15532:0331/165627.448:ERROR:device_event_log_impl.cc(222)] [16:56:27.448] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 31, 2023 16:56:27.45 [11424:15532:0331/165627.450:ERROR:device_event_log_impl.cc(222)] [16:56:27.449] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 31, 2023 16:56:28.54 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 31, 2023 16:59:17.56 [15584:11440:0331/165917.566:ERROR:device_event_log_impl.cc(222)] [16:59:17.566] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 31, 2023 16:59:17.56 [15584:11440:0331/165917.566:ERROR:device_event_log_impl.cc(222)] [16:59:17.566] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 31, 2023 16:59:17.78 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 31, 2023 17:02:37.56 [15584:18216:0331/170237.565:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 31, 2023 17:06:07.33 [15584:18216:0331/170607.332:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 31, 2023 17:09:37.34 [15584:18216:0331/170937.345:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 31, 2023 17:35:08.68 [15584:18216:0331/173508.685:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+
+Mar 31, 2023 20:23:18.20 NEW SESSION
+Mar 31, 2023 20:23:18.20 [13156:13520:0331/202318.201:ERROR:device_event_log_impl.cc(222)] [20:23:18.202] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 31, 2023 20:23:18.20 [13156:13520:0331/202318.201:ERROR:device_event_log_impl.cc(222)] [20:23:18.202] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 31, 2023 20:23:18.21 [13156:23216:0331/202318.217:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 31, 2023 20:23:18.51 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 31, 2023 20:23:40.40 [13156:23216:0331/202340.404:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 31, 2023 20:24:08.41 [13156:23216:0331/202408.410:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 31, 2023 20:25:34.97 [13156:23216:0331/202534.971:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 31, 2023 20:28:43.96 [13156:23216:0331/202843.965:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 31, 2023 20:36:32.89 [13156:23216:0331/203632.893:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 31, 2023 21:51:00.11 [13156:23216:0331/215100.110:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 31, 2023 21:53:18.70 [13156:23216:0331/215318.700:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 31, 2023 22:01:03.16 [13156:23216:0331/220103.163:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 31, 2023 22:01:50.48 [13156:23216:0331/220150.485:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 31, 2023 22:03:22.52 [13156:23216:0331/220322.520:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 31, 2023 22:06:12.74 [13156:23216:0331/220612.746:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 31, 2023 22:20:27.30 [13156:23216:0331/222027.306:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Apr 01, 2023 13:56:45.41 NEW SESSION
+Apr 01, 2023 13:56:45.41 [22196:21420:0401/135645.415:ERROR:device_event_log_impl.cc(222)] [13:56:45.415] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 01, 2023 13:56:45.41 [22196:21420:0401/135645.415:ERROR:device_event_log_impl.cc(222)] [13:56:45.415] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 01, 2023 13:56:45.45 [22196:23424:0401/135645.450:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 01, 2023 13:56:45.96 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 01, 2023 13:57:12.75 [22196:23424:0401/135712.750:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 01, 2023 13:57:39.90 [22196:23424:0401/135739.908:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Apr 03, 2023 16:51:14.58 NEW SESSION
+Apr 03, 2023 16:51:14.58 [14308:18184:0403/165114.584:ERROR:device_event_log_impl.cc(222)] [16:51:14.583] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 03, 2023 16:51:14.58 [14308:18184:0403/165114.584:ERROR:device_event_log_impl.cc(222)] [16:51:14.584] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 03, 2023 16:51:14.61 [14308:27016:0403/165114.612:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2023 16:51:14.94 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 03, 2023 16:51:41.17 [14308:27016:0403/165141.175:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2023 16:51:46.64 [14308:18184:0403/165146.641:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 03, 2023 16:52:19.91 [14308:27016:0403/165219.911:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2023 16:53:52.14 [14308:27016:0403/165352.139:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2023 16:56:43.22 [14308:27016:0403/165643.221:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2023 17:02:06.21 [14308:27016:0403/170206.216:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2023 17:12:06.22 [14308:27016:0403/171206.229:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2023 17:22:06.23 [14308:27016:0403/172206.238:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2023 17:32:06.24 [14308:27016:0403/173206.244:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2023 17:42:06.26 [14308:27016:0403/174206.261:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2023 17:52:06.26 [14308:27016:0403/175206.266:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2023 18:02:06.27 [14308:27016:0403/180206.276:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2023 18:14:30.60 [14308:27016:0403/181430.604:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2023 18:26:35.64 [14308:27016:0403/182635.643:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2023 18:36:35.67 [14308:27016:0403/183635.672:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2023 18:46:35.67 [14308:27016:0403/184635.678:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2023 18:56:35.69 [14308:27016:0403/185635.692:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2023 19:06:35.69 [14308:27016:0403/190635.697:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2023 19:16:35.70 [14308:27016:0403/191635.705:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2023 19:26:35.72 [14308:27016:0403/192635.721:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2023 19:54:24.91 [14308:27016:0403/195424.909:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Apr 03, 2023 22:58:49.72 NEW SESSION
+Apr 03, 2023 22:58:49.72 [15088:1280:0403/225849.724:ERROR:device_event_log_impl.cc(222)] [22:58:49.725] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 03, 2023 22:58:49.72 [15088:1280:0403/225849.725:ERROR:device_event_log_impl.cc(222)] [22:58:49.725] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 03, 2023 22:58:50.72 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 03, 2023 23:13:40.92 [15088:20208:0403/231340.927:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+Apr 04, 2023 08:20:17.83 NEW SESSION
+Apr 04, 2023 08:20:17.83 [11308:14968:0404/082017.835:ERROR:device_event_log_impl.cc(222)] [08:20:17.835] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 04, 2023 08:20:17.83 [11308:14968:0404/082017.835:ERROR:device_event_log_impl.cc(222)] [08:20:17.835] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 04, 2023 08:20:17.87 [11308:2200:0404/082017.873:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2023 08:20:18.25 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 04, 2023 08:20:47.45 [11308:2200:0404/082047.457:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2023 08:20:58.40 [11308:2200:0404/082058.406:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Apr 04, 2023 12:43:21.86 NEW SESSION
+Apr 04, 2023 12:43:21.86 [11088:2952:0404/124321.864:ERROR:device_event_log_impl.cc(222)] [12:43:21.864] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 04, 2023 12:43:21.86 [11088:2952:0404/124321.864:ERROR:device_event_log_impl.cc(222)] [12:43:21.864] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 04, 2023 12:43:21.90 [11088:2456:0404/124321.907:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2023 12:43:22.36 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 04, 2023 12:43:43.65 [11088:2456:0404/124343.654:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2023 12:44:31.75 [11088:2456:0404/124431.750:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2023 12:45:54.25 [11088:2456:0404/124554.255:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2023 12:48:43.21 [11088:2456:0404/124843.210:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2023 12:55:21.60 [11088:2456:0404/125521.603:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2023 13:05:21.61 [11088:2456:0404/130521.612:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2023 13:15:21.62 [11088:2456:0404/131521.620:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Apr 04, 2023 16:37:51.77 NEW SESSION
+Apr 04, 2023 16:37:51.77 [19620:21080:0404/163751.767:ERROR:device_event_log_impl.cc(222)] [16:37:51.771] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 04, 2023 16:37:51.77 [19620:21080:0404/163751.767:ERROR:device_event_log_impl.cc(222)] [16:37:51.771] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 04, 2023 16:37:51.83 [19620:8760:0404/163751.838:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2023 16:37:52.31 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 04, 2023 16:38:14.48 [19620:8760:0404/163814.488:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2023 16:39:00.75 [19620:8760:0404/163900.754:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2023 16:40:27.89 [19620:8760:0404/164027.897:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2023 16:43:30.73 [19620:8760:0404/164330.738:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2023 16:50:23.64 [19620:8760:0404/165023.648:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2023 17:00:23.65 [19620:8760:0404/170023.658:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2023 17:15:06.55 [19620:8760:0404/171506.557:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2023 17:25:06.56 [19620:8760:0404/172506.567:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2023 17:35:06.57 [19620:8760:0404/173506.574:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2023 17:42:41.31 [19620:8760:0404/174241.313:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Apr 04, 2023 18:29:39.72 [19620:8760:0404/182939.726:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Apr 04, 2023 18:40:21.26 [19620:8760:0404/184021.261:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Apr 04, 2023 18:44:21.25 [19620:8760:0404/184421.258:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+
+Apr 05, 2023 11:24:54.72 NEW SESSION
+Apr 05, 2023 11:24:54.72 [1332:19240:0405/112454.717:ERROR:device_event_log_impl.cc(222)] [11:24:54.718] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 05, 2023 11:24:54.72 [1332:19240:0405/112454.718:ERROR:device_event_log_impl.cc(222)] [11:24:54.718] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 05, 2023 11:24:55.45 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 05, 2023 11:40:03.41 [1332:20248:0405/114003.419:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Apr 05, 2023 11:58:39.01 [1332:20248:0405/115839.017:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2023 11:59:09.16 [1332:20248:0405/115909.160:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2023 11:59:58.23 [1332:20248:0405/115958.236:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2023 12:01:24.44 [1332:20248:0405/120124.445:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Apr 05, 2023 12:01:30.10 [1332:19240:0405/120130.107:ERROR:device_event_log_impl.cc(222)] [12:01:30.108] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 05, 2023 12:01:31.10 [1332:20248:0405/120131.103:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Apr 05, 2023 17:25:16.00 NEW SESSION
+Apr 05, 2023 17:25:16.00 [9672:8492:0405/172516.000:ERROR:device_event_log_impl.cc(222)] [17:25:16.000] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 05, 2023 17:25:16.00 [9672:8492:0405/172516.000:ERROR:device_event_log_impl.cc(222)] [17:25:16.000] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 05, 2023 17:25:16.03 [9672:1944:0405/172516.039:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2023 17:25:16.43 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 05, 2023 17:25:42.63 [9672:1944:0405/172542.632:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2023 17:26:01.41 [9672:1944:0405/172601.410:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2023 17:27:23.83 [9672:1944:0405/172723.836:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2023 17:30:06.87 [9672:1944:0405/173006.872:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2023 17:33:09.63 [9672:1944:0405/173309.636:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Apr 05, 2023 17:43:09.64 [9672:1944:0405/174309.647:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2023 17:53:09.65 [9672:1944:0405/175309.653:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2023 18:03:09.67 [9672:1944:0405/180309.677:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 06, 2023 11:31:53.67 [9672:1944:0406/113153.676:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 06, 2023 11:32:26.35 [9672:8492:0406/113226.350:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 06, 2023 11:32:26.39 [9672:8492:0406/113226.394:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 06, 2023 11:41:53.68 [9672:1944:0406/114153.687:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 06, 2023 11:51:53.70 [9672:1944:0406/115153.702:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 06, 2023 12:01:53.71 [9672:1944:0406/120153.713:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 06, 2023 12:11:53.73 [9672:1944:0406/121153.730:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 06, 2023 12:21:53.73 [9672:1944:0406/122153.735:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Apr 10, 2023 17:27:49.15 NEW SESSION
+Apr 10, 2023 17:27:49.15 [7416:10552:0410/172749.152:ERROR:device_event_log_impl.cc(222)] [17:27:49.152] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 10, 2023 17:27:49.15 [7416:10552:0410/172749.152:ERROR:device_event_log_impl.cc(222)] [17:27:49.152] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 10, 2023 17:27:49.19 [7416:24192:0410/172749.196:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 10, 2023 17:27:49.84 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 10, 2023 17:28:10.38 [7416:24192:0410/172810.384:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 10, 2023 17:28:20.84 [7416:10552:0410/172820.849:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 10, 2023 17:28:20.91 [7416:10552:0410/172820.912:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 10, 2023 17:28:24.00 [7416:10552:0410/172824.002:ERROR:device_event_log_impl.cc(222)] [17:28:24.001] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 10, 2023 17:28:58.12 [7416:24192:0410/172858.120:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 10, 2023 17:30:51.50 [7416:24192:0410/173051.503:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 10, 2023 17:34:35.25 [7416:24192:0410/173435.258:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 10, 2023 17:41:23.22 [7416:24192:0410/174123.227:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 10, 2023 17:51:23.24 [7416:24192:0410/175123.244:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 10, 2023 18:01:23.25 [7416:24192:0410/180123.250:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 10, 2023 18:11:23.25 [7416:24192:0410/181123.256:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 10, 2023 18:21:23.27 [7416:24192:0410/182123.271:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 10, 2023 18:31:23.27 [7416:24192:0410/183123.273:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 10, 2023 18:31:29.57 [7416:10552:0410/183129.570:ERROR:device_event_log_impl.cc(222)] [18:31:29.566] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 10, 2023 18:41:23.27 [7416:24192:0410/184123.276:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Apr 11, 2023 09:16:33.68 NEW SESSION
+Apr 11, 2023 09:16:33.68 [9312:19124:0411/091633.677:ERROR:device_event_log_impl.cc(222)] [09:16:33.678] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 11, 2023 09:16:33.68 [9312:19124:0411/091633.678:ERROR:device_event_log_impl.cc(222)] [09:16:33.678] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 11, 2023 09:16:33.72 [9312:14432:0411/091633.722:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2023 09:16:33.72 [9312:14432:0411/091633.725:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 09:16:33.72 [9312:14432:0411/091633.725:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 09:16:33.72 [9312:14432:0411/091633.725:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 09:16:33.72 [9312:14432:0411/091633.726:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 09:16:34.31 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 11, 2023 09:16:50.41 [9312:14432:0411/091650.411:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2023 09:16:56.03 [9312:14432:0411/091656.034:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 09:17:01.07 [9312:14432:0411/091701.075:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 09:17:03.12 [9312:14432:0411/091703.120:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 09:17:03.13 [9312:14432:0411/091703.135:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 09:17:39.29 [9312:14432:0411/091739.297:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2023 09:17:47.78 [9312:14432:0411/091747.785:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 09:17:48.17 [9312:14432:0411/091748.173:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 09:17:54.37 [9312:14432:0411/091754.370:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 09:18:02.72 [9312:14432:0411/091802.724:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 09:19:03.24 [9312:14432:0411/091903.248:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2023 09:19:10.39 [9312:14432:0411/091910.399:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 09:19:23.39 [9312:14432:0411/091923.388:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 09:19:43.81 [9312:14432:0411/091943.811:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 09:20:02.22 [9312:14432:0411/092002.224:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 09:22:25.92 [9312:14432:0411/092225.926:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 09:23:01.04 [9312:14432:0411/092301.048:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2023 09:23:01.51 [9312:14432:0411/092301.512:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 09:23:12.56 [9312:14432:0411/092312.559:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 09:23:13.78 [9312:14432:0411/092313.782:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 09:28:13.24 [9312:14432:0411/092813.238:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 09:29:53.82 [9312:14432:0411/092953.828:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 09:29:53.82 [9312:19124:0411/092953.828:ERROR:sharing_service.cc(210)] Device registration failed with transient error
+Apr 11, 2023 09:30:03.16 [9312:14432:0411/093003.169:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2023 09:30:07.93 [9312:14432:0411/093007.931:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 09:30:24.76 [9312:14432:0411/093024.759:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 09:34:47.69 [9312:14432:0411/093447.692:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 09:35:16.37 [9312:14432:0411/093516.379:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 09:36:00.93 [9312:14432:0411/093600.935:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 09:37:39.81 [9312:14432:0411/093739.818:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 09:40:03.17 [9312:14432:0411/094003.178:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2023 09:40:58.71 [9312:14432:0411/094058.715:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 09:47:32.47 [9312:14432:0411/094732.472:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 09:47:32.47 [9312:19124:0411/094732.472:ERROR:sharing_service.cc(210)] Device registration failed with transient error
+Apr 11, 2023 09:50:03.18 [9312:14432:0411/095003.180:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2023 09:56:58.87 [9312:14432:0411/095658.879:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 09:57:19.35 [9312:14432:0411/095719.358:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 09:58:14.57 [9312:14432:0411/095814.571:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+
+Apr 11, 2023 12:27:53.20 NEW SESSION
+Apr 11, 2023 12:27:53.20 [23920:19780:0411/122753.204:ERROR:device_event_log_impl.cc(222)] [12:27:53.205] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 11, 2023 12:27:53.20 [23920:19780:0411/122753.204:ERROR:device_event_log_impl.cc(222)] [12:27:53.205] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 11, 2023 12:27:53.24 [23920:20040:0411/122753.247:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2023 12:27:53.24 [23920:20040:0411/122753.247:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 12:27:53.24 [23920:20040:0411/122753.247:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 12:27:53.24 [23920:20040:0411/122753.247:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 12:27:53.25 [23920:20040:0411/122753.249:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 12:27:53.83 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 11, 2023 12:28:14.33 [23920:20040:0411/122814.329:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 12:28:15.47 [23920:20040:0411/122815.476:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 12:28:15.87 [23920:20040:0411/122815.875:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2023 12:28:20.91 [23920:20040:0411/122820.909:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 12:28:21.27 [23920:20040:0411/122821.272:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 12:29:04.91 [23920:20040:0411/122904.915:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 12:29:06.20 [23920:20040:0411/122906.207:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2023 12:29:08.41 [23920:20040:0411/122908.416:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 12:29:09.27 [23920:20040:0411/122909.273:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 12:29:10.70 [23920:20040:0411/122910.704:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 12:30:30.90 [23920:20040:0411/123030.900:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 12:30:33.75 [23920:20040:0411/123033.752:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2023 12:30:34.68 [23920:20040:0411/123034.681:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 12:30:54.60 [23920:20040:0411/123054.604:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 12:31:01.80 [23920:20040:0411/123101.806:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 12:34:05.62 [23920:20040:0411/123405.622:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 12:34:11.04 [23920:20040:0411/123411.044:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2023 12:34:16.48 [23920:20040:0411/123416.485:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 12:34:29.57 [23920:20040:0411/123429.569:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 12:34:48.75 [23920:20040:0411/123448.756:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 12:40:21.18 [23920:20040:0411/124021.180:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 12:40:27.58 [23920:20040:0411/124027.585:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 12:40:49.30 [23920:20040:0411/124049.301:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 12:42:01.49 [23920:20040:0411/124201.497:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2023 12:42:13.58 [23920:20040:0411/124213.587:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 12:42:13.58 [23920:19780:0411/124213.588:ERROR:sharing_service.cc(210)] Device registration failed with transient error
+Apr 11, 2023 12:46:47.50 [23920:20040:0411/124647.506:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 12:47:14.02 [23920:20040:0411/124714.021:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 12:47:55.21 [23920:20040:0411/124755.211:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 12:49:16.19 [23920:20040:0411/124916.198:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 12:52:01.51 [23920:20040:0411/125201.514:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2023 12:52:48.38 [23920:20040:0411/125248.385:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 12:54:38.41 [23920:20040:0411/125438.409:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Apr 11, 2023 12:54:52.91 [23920:20040:0411/125452.912:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Apr 11, 2023 12:55:04.23 [23920:20040:0411/125504.232:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Apr 11, 2023 12:55:05.04 [23920:19780:0411/125505.046:ERROR:device_event_log_impl.cc(222)] [12:55:05.045] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 11, 2023 12:55:06.26 [23920:20040:0411/125506.267:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2023 12:55:41.31 [23920:20040:0411/125541.310:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Apr 11, 2023 12:56:28.18 [23920:20040:0411/125628.184:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Apr 11, 2023 12:56:54.60 [23920:20040:0411/125654.608:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2023 13:00:43.56 [23920:20040:0411/130043.563:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 13:00:43.56 [23920:19780:0411/130043.563:ERROR:sharing_service.cc(210)] Device registration failed with transient error
+Apr 11, 2023 13:06:54.62 [23920:20040:0411/130654.620:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2023 13:10:38.65 [23920:20040:0411/131038.655:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 13:11:06.34 [23920:20040:0411/131106.343:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 13:11:56.27 [23920:20040:0411/131156.276:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 13:13:18.16 [23920:20040:0411/131318.165:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 13:16:54.36 [23920:20040:0411/131654.364:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 13:16:54.63 [23920:20040:0411/131654.633:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Apr 11, 2023 17:19:12.94 NEW SESSION
+Apr 11, 2023 17:19:12.94 [18756:3216:0411/171912.938:ERROR:device_event_log_impl.cc(222)] [17:19:12.937] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 11, 2023 17:19:12.94 [18756:3216:0411/171912.938:ERROR:device_event_log_impl.cc(222)] [17:19:12.938] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 11, 2023 17:19:12.97 [18756:23072:0411/171912.976:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2023 17:19:12.97 [18756:23072:0411/171912.977:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 17:19:12.97 [18756:23072:0411/171912.977:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 17:19:12.97 [18756:23072:0411/171912.977:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 17:19:12.97 [18756:23072:0411/171912.977:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 17:19:13.38 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 11, 2023 17:19:34.15 [18756:23072:0411/171934.156:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 17:19:34.53 [18756:23072:0411/171934.530:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 17:19:35.07 [18756:23072:0411/171935.071:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 17:19:35.98 [18756:23072:0411/171935.979:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 17:19:36.28 [18756:23072:0411/171936.279:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2023 17:19:44.91 [18756:23072:0411/171944.905:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2023 17:20:22.16 [18756:23072:0411/172022.168:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 17:20:28.75 [18756:23072:0411/172028.757:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 17:20:29.76 [18756:23072:0411/172029.763:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 17:20:30.65 [18756:23072:0411/172030.655:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 17:21:16.08 [18756:23072:0411/172116.084:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2023 17:21:46.69 [18756:23072:0411/172146.695:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 17:21:58.56 [18756:23072:0411/172158.565:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 17:22:02.44 [18756:23072:0411/172202.442:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 17:22:09.66 [18756:23072:0411/172209.660:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 17:24:41.13 [18756:23072:0411/172441.135:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 17:24:43.04 [18756:23072:0411/172443.041:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2023 17:25:12.48 [18756:23072:0411/172512.488:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 17:25:22.25 [18756:23072:0411/172522.255:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 17:25:57.65 [18756:23072:0411/172557.656:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 17:28:19.94 [18756:3216:0411/172819.946:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 11, 2023 17:28:20.60 [18756:3216:0411/172820.602:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 11, 2023 17:28:20.63 [18756:3216:0411/172820.635:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 11, 2023 17:30:56.90 [18756:23072:0411/173056.898:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 17:31:25.14 [18756:23072:0411/173125.147:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2023 17:31:37.58 [18756:23072:0411/173137.586:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 17:31:40.43 [18756:23072:0411/173140.438:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 17:31:40.44 [18756:3216:0411/173140.438:ERROR:sharing_service.cc(210)] Device registration failed with transient error
+Apr 11, 2023 17:33:51.54 [18756:23072:0411/173351.543:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 17:36:18.94 [18756:23072:0411/173618.941:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 17:36:39.33 [18756:23072:0411/173639.331:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 17:37:29.74 [18756:23072:0411/173729.741:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 17:39:24.07 [18756:23072:0411/173924.072:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 17:41:25.15 [18756:23072:0411/174125.152:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2023 17:42:26.08 [18756:23072:0411/174226.086:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 17:49:25.01 [18756:23072:0411/174925.016:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 17:49:25.01 [18756:3216:0411/174925.019:ERROR:sharing_service.cc(210)] Device registration failed with transient error
+Apr 11, 2023 17:51:25.15 [18756:23072:0411/175125.153:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2023 17:59:22.55 [18756:23072:0411/175922.551:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 17:59:45.42 [18756:23072:0411/175945.420:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 18:00:25.69 [18756:23072:0411/180025.691:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 18:01:25.16 [18756:23072:0411/180125.169:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2023 18:02:13.77 [18756:23072:0411/180213.772:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 18:05:14.57 [18756:23072:0411/180514.573:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 18:11:25.17 [18756:23072:0411/181125.177:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2023 18:12:59.71 [18756:23072:0411/181259.714:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 18:12:59.71 [18756:3216:0411/181259.714:ERROR:sharing_service.cc(210)] Device registration failed with transient error
+Apr 11, 2023 18:21:25.17 [18756:23072:0411/182125.179:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2023 18:31:25.18 [18756:23072:0411/183125.187:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 11, 2023 18:32:44.62 [18756:23072:0411/183244.623:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 18:33:10.12 [18756:23072:0411/183310.123:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 18:34:02.01 [18756:23072:0411/183402.019:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 11, 2023 18:38:41.09 [18756:23072:0411/183841.093:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+
+Apr 12, 2023 12:11:51.08 NEW SESSION
+Apr 12, 2023 12:11:51.08 [12860:12492:0412/121151.078:ERROR:device_event_log_impl.cc(222)] [12:11:51.078] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 12, 2023 12:11:51.08 [12860:12492:0412/121151.078:ERROR:device_event_log_impl.cc(222)] [12:11:51.078] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 12, 2023 12:11:51.13 [12860:14804:0412/121151.137:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2023 12:11:51.14 [12860:14804:0412/121151.139:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 12:11:51.14 [12860:14804:0412/121151.140:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 12:11:51.14 [12860:14804:0412/121151.140:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 12:11:51.14 [12860:14804:0412/121151.140:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 12:11:51.78 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 12, 2023 12:12:11.54 [12860:14804:0412/121211.545:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2023 12:12:12.20 [12860:14804:0412/121212.202:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 12:12:13.86 [12860:14804:0412/121213.864:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 12:12:14.29 [12860:14804:0412/121214.292:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 12:12:20.81 [12860:14804:0412/121220.814:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 12:12:55.56 [12860:14804:0412/121255.568:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2023 12:12:56.96 [12860:14804:0412/121256.967:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 12:12:57.39 [12860:14804:0412/121257.394:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 12:13:08.80 [12860:14804:0412/121308.802:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 12:13:15.80 [12860:14804:0412/121315.808:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 12:14:28.12 [12860:14804:0412/121428.123:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 12:14:36.91 [12860:14804:0412/121436.909:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2023 12:14:37.34 [12860:14804:0412/121437.347:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 12:14:54.49 [12860:14804:0412/121454.497:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 12:15:00.28 [12860:14804:0412/121500.283:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 12:17:23.18 [12860:14804:0412/121723.181:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 12:17:42.84 [12860:14804:0412/121742.848:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 12:17:43.71 [12860:14804:0412/121743.712:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 12:18:02.66 [12860:14804:0412/121802.662:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 12:18:25.34 [12860:14804:0412/121825.341:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2023 12:23:20.38 [12860:14804:0412/122320.382:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 12:23:43.47 [12860:14804:0412/122343.473:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 12:23:51.71 [12860:14804:0412/122351.711:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2023 12:23:57.39 [12860:14804:0412/122357.397:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 12:24:49.23 [12860:14804:0412/122449.236:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 12:24:49.23 [12860:12492:0412/122449.236:ERROR:sharing_service.cc(210)] Device registration failed with transient error
+Apr 12, 2023 12:29:46.41 [12860:14804:0412/122946.404:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 12:30:15.62 [12860:14804:0412/123015.626:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 12:31:10.87 [12860:14804:0412/123110.872:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 12:33:09.27 [12860:14804:0412/123309.271:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 12:33:51.71 [12860:14804:0412/123351.716:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2023 12:36:55.12 [12860:14804:0412/123655.128:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+
+Apr 12, 2023 17:30:51.12 NEW SESSION
+Apr 12, 2023 17:30:51.12 [17228:13096:0412/173051.120:ERROR:device_event_log_impl.cc(222)] [17:30:51.120] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 12, 2023 17:30:51.12 [17228:13096:0412/173051.120:ERROR:device_event_log_impl.cc(222)] [17:30:51.120] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 12, 2023 17:30:51.15 [17228:11372:0412/173051.156:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2023 17:30:51.15 [17228:11372:0412/173051.156:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 17:30:51.15 [17228:11372:0412/173051.156:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 17:30:51.15 [17228:11372:0412/173051.157:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 17:30:51.15 [17228:11372:0412/173051.157:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 17:30:51.74 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 12, 2023 17:31:11.83 [17228:11372:0412/173111.836:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2023 17:31:15.11 [17228:11372:0412/173115.111:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 17:31:15.17 [17228:11372:0412/173115.174:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 17:31:17.85 [17228:11372:0412/173117.855:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 17:31:19.47 [17228:11372:0412/173119.474:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 17:31:21.24 [17228:13096:0412/173121.245:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 12, 2023 17:31:22.13 [17228:13096:0412/173122.134:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 12, 2023 17:31:22.95 [17228:13096:0412/173122.954:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 12, 2023 17:31:56.35 [17228:11372:0412/173156.358:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 17:31:57.61 [17228:11372:0412/173157.614:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2023 17:31:59.30 [17228:11372:0412/173159.309:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 17:32:13.53 [17228:11372:0412/173213.534:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 17:32:14.07 [17228:11372:0412/173214.077:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 17:33:26.51 [17228:11372:0412/173326.511:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 17:33:36.91 [17228:11372:0412/173336.911:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2023 17:33:41.13 [17228:11372:0412/173341.133:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 17:33:51.10 [17228:11372:0412/173351.101:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 17:34:03.86 [17228:11372:0412/173403.866:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 17:37:12.15 [17228:11372:0412/173712.156:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 17:37:15.55 [17228:11372:0412/173715.553:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 17:37:18.48 [17228:11372:0412/173718.481:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 17:37:22.61 [17228:11372:0412/173722.614:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2023 17:37:23.82 [17228:11372:0412/173723.824:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 17:43:01.58 [17228:11372:0412/174301.581:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 17:43:08.58 [17228:11372:0412/174308.583:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 17:43:08.58 [17228:13096:0412/174308.583:ERROR:sharing_service.cc(210)] Device registration failed with transient error
+Apr 12, 2023 17:43:22.19 [17228:11372:0412/174322.193:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 17:43:30.68 [17228:11372:0412/174330.686:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2023 17:43:31.83 [17228:11372:0412/174331.832:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 17:48:00.88 [17228:11372:0412/174800.884:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 17:48:23.53 [17228:11372:0412/174823.535:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 17:49:21.43 [17228:11372:0412/174921.430:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 17:50:49.63 [17228:11372:0412/175049.635:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 17:53:30.69 [17228:11372:0412/175330.690:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2023 17:53:34.03 [17228:11372:0412/175334.036:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 18:01:04.51 [17228:11372:0412/180104.519:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 18:01:04.51 [17228:13096:0412/180104.519:ERROR:sharing_service.cc(210)] Device registration failed with transient error
+Apr 12, 2023 18:03:30.70 [17228:11372:0412/180330.700:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2023 18:10:51.31 [17228:11372:0412/181051.315:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 18:11:14.88 [17228:11372:0412/181114.878:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 18:12:10.09 [17228:11372:0412/181210.088:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 12, 2023 18:13:30.72 [17228:11372:0412/181330.722:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2023 18:13:57.06 [17228:11372:0412/181357.064:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+
+Apr 13, 2023 11:55:49.32 NEW SESSION
+Apr 13, 2023 11:55:49.32 [23452:19652:0413/115549.325:ERROR:device_event_log_impl.cc(222)] [11:55:49.325] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 13, 2023 11:55:49.32 [23452:19652:0413/115549.325:ERROR:device_event_log_impl.cc(222)] [11:55:49.325] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 13, 2023 11:55:49.40 [23452:2520:0413/115549.404:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 13, 2023 11:55:50.04 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 13, 2023 11:56:11.17 [23452:2520:0413/115611.173:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 13, 2023 11:57:06.95 [23452:2520:0413/115706.957:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 13, 2023 11:58:57.44 [23452:2520:0413/115857.447:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 13, 2023 12:02:44.61 [23452:2520:0413/120244.616:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 13, 2023 12:08:06.37 [23452:2520:0413/120806.378:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 13, 2023 12:18:06.38 [23452:2520:0413/121806.386:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Apr 13, 2023 17:28:33.46 NEW SESSION
+Apr 13, 2023 17:28:33.46 [9268:6008:0413/172833.459:ERROR:device_event_log_impl.cc(222)] [17:28:33.458] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 13, 2023 17:28:33.46 [9268:6008:0413/172833.459:ERROR:device_event_log_impl.cc(222)] [17:28:33.459] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 13, 2023 17:28:33.51 [9268:23304:0413/172833.507:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 13, 2023 17:28:34.16 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 13, 2023 17:28:51.39 [9268:23304:0413/172851.396:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 13, 2023 17:29:33.50 [9268:23304:0413/172933.508:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 13, 2023 17:31:20.49 [9268:6008:0413/173120.491:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 13, 2023 17:31:21.63 [9268:6008:0413/173121.639:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 13, 2023 17:31:21.69 [9268:6008:0413/173121.696:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 13, 2023 17:31:26.95 [9268:23304:0413/173126.950:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 13, 2023 17:35:23.93 [9268:23304:0413/173523.933:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 13, 2023 17:42:48.53 [9268:23304:0413/174248.538:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 13, 2023 17:52:48.54 [9268:23304:0413/175248.542:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 13, 2023 18:02:48.56 [9268:23304:0413/180248.560:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 13, 2023 18:12:48.58 [9268:23304:0413/181248.577:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 13, 2023 18:22:48.60 [9268:23304:0413/182248.600:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 13, 2023 18:32:48.60 [9268:23304:0413/183248.605:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 13, 2023 18:42:48.61 [9268:23304:0413/184248.610:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Apr 14, 2023 17:02:02.63 NEW SESSION
+Apr 14, 2023 17:02:02.63 [19876:3148:0414/170202.627:ERROR:device_event_log_impl.cc(222)] [17:02:02.630] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 14, 2023 17:02:02.63 [19876:3148:0414/170202.627:ERROR:device_event_log_impl.cc(222)] [17:02:02.630] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 14, 2023 17:02:02.68 [19876:14276:0414/170202.680:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 14, 2023 17:02:03.17 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 14, 2023 17:02:22.40 [19876:14276:0414/170222.409:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 14, 2023 17:03:18.50 [19876:14276:0414/170318.506:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 14, 2023 17:05:04.05 [19876:14276:0414/170504.055:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 14, 2023 17:08:33.17 [19876:14276:0414/170833.169:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 14, 2023 17:15:18.74 [19876:14276:0414/171518.745:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 14, 2023 17:24:49.33 [19876:3148:0414/172449.334:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+Apr 14, 2023 17:32:19.79 [19876:14276:0414/173219.793:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 14, 2023 17:32:43.87 [19876:14276:0414/173243.871:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 14, 2023 17:33:41.85 [19876:14276:0414/173341.851:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 14, 2023 17:35:43.73 [19876:14276:0414/173543.733:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 14, 2023 17:38:54.28 [19876:14276:0414/173854.283:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 14, 2023 17:50:10.10 [19876:14276:0414/175010.100:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 14, 2023 21:35:38.17 [19876:14276:0414/213538.172:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Apr 14, 2023 22:45:48.07 [19876:14276:0414/224547.917:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+Apr 15, 2023 12:29:59.63 NEW SESSION
+Apr 15, 2023 12:29:59.63 [15732:1420:0415/122959.634:ERROR:device_event_log_impl.cc(222)] [12:29:59.635] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 15, 2023 12:29:59.63 [15732:1420:0415/122959.635:ERROR:device_event_log_impl.cc(222)] [12:29:59.636] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 15, 2023 12:30:00.32 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 15, 2023 12:38:06.87 [15732:5168:0415/123806.878:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Apr 15, 2023 12:39:10.91 [15732:5168:0415/123910.917:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -109
+Apr 15, 2023 12:45:41.16 [15732:5168:0415/124541.164:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Apr 15, 2023 12:57:53.82 [15732:5168:0415/125753.825:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+
+Apr 15, 2023 17:14:11.47 NEW SESSION
+Apr 15, 2023 17:14:11.47 [16864:16664:0415/171411.470:ERROR:device_event_log_impl.cc(222)] [17:14:11.470] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 15, 2023 17:14:11.47 [16864:16664:0415/171411.470:ERROR:device_event_log_impl.cc(222)] [17:14:11.470] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 15, 2023 17:14:11.50 [16864:13844:0415/171411.508:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 15, 2023 17:14:11.85 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 15, 2023 17:14:37.53 [16864:13844:0415/171437.533:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 15, 2023 17:15:01.90 [16864:13844:0415/171501.907:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 15, 2023 17:16:41.17 [16864:13844:0415/171641.176:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 15, 2023 17:19:40.74 [16864:13844:0415/171940.748:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 15, 2023 17:27:36.01 [16864:13844:0415/172736.012:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 15, 2023 17:31:21.26 [16864:16664:0415/173121.261:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 15, 2023 17:31:21.88 [16864:16664:0415/173121.881:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 15, 2023 17:31:22.16 [16864:16664:0415/173122.164:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 15, 2023 17:37:36.02 [16864:13844:0415/173736.020:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 15, 2023 17:47:36.02 [16864:13844:0415/174736.029:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 15, 2023 17:57:36.03 [16864:13844:0415/175736.035:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 15, 2023 18:07:36.05 [16864:13844:0415/180736.052:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Apr 17, 2023 11:44:09.92 NEW SESSION
+Apr 17, 2023 11:44:09.92 [5228:20180:0417/114409.924:ERROR:device_event_log_impl.cc(222)] [11:44:09.924] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 17, 2023 11:44:09.92 [5228:20180:0417/114409.925:ERROR:device_event_log_impl.cc(222)] [11:44:09.925] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 17, 2023 11:44:10.90 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 17, 2023 11:45:26.22 [5228:17120:0417/114526.221:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Apr 17, 2023 11:45:31.89 [5228:17120:0417/114531.896:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Apr 17, 2023 15:45:26.30 [5228:17120:0417/154526.307:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Apr 17, 2023 15:45:29.51 [5228:20060:0417/154529.513:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Apr 20, 2023 17:56:39.74 [5228:17120:0420/175639.749:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 20, 2023 17:56:39.74 [5228:17120:0420/175639.749:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 20, 2023 17:56:39.74 [5228:8152:0420/175639.749:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Apr 20, 2023 17:56:39.74 [5228:17120:0420/175639.749:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 20, 2023 17:56:39.74 [5228:17120:0420/175639.749:ERROR:checkin_request.cc(241)] Check-in request got net error: -106
+
+Apr 20, 2023 17:57:21.65 NEW SESSION
+Apr 20, 2023 17:57:21.65 [22048:22176:0420/175721.653:ERROR:device_event_log_impl.cc(222)] [17:57:21.652] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 20, 2023 17:57:21.65 [22048:22176:0420/175721.653:ERROR:device_event_log_impl.cc(222)] [17:57:21.652] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 20, 2023 17:57:21.66 [22048:7860:0420/175721.661:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 20, 2023 17:57:21.66 [22048:7860:0420/175721.662:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 20, 2023 17:57:21.66 [22048:7860:0420/175721.662:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 20, 2023 17:57:21.66 [22048:7860:0420/175721.662:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 20, 2023 17:57:21.66 [22048:7860:0420/175721.662:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 20, 2023 17:57:22.51 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 20, 2023 17:57:45.09 [22048:7860:0420/175745.098:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 20, 2023 17:57:47.24 [22048:7860:0420/175747.248:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 20, 2023 17:57:49.26 [22048:7860:0420/175749.269:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 20, 2023 17:57:49.64 [22048:7860:0420/175749.641:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 20, 2023 17:57:50.86 [22048:7860:0420/175750.868:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 20, 2023 17:58:34.85 [22048:7860:0420/175834.854:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 20, 2023 17:58:37.39 [22048:7860:0420/175837.397:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 20, 2023 17:58:37.39 [22048:7860:0420/175837.397:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 20, 2023 17:58:37.40 [22048:7860:0420/175837.397:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 20, 2023 17:58:41.87 [22048:7860:0420/175841.876:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 20, 2023 18:00:07.56 [22048:7860:0420/180007.558:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 20, 2023 18:00:15.38 [22048:7860:0420/180015.383:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 20, 2023 18:00:16.70 [22048:7860:0420/180016.707:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 20, 2023 18:00:19.93 [22048:7860:0420/180019.935:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 20, 2023 18:00:24.81 [22048:7860:0420/180024.811:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 20, 2023 18:03:12.24 [22048:7860:0420/180312.245:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 20, 2023 18:03:14.71 [22048:7860:0420/180314.711:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 20, 2023 18:03:15.17 [22048:7860:0420/180315.177:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 20, 2023 18:03:41.31 [22048:7860:0420/180341.317:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 20, 2023 18:04:00.41 [22048:7860:0420/180400.414:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 20, 2023 18:09:40.47 [22048:7860:0420/180940.475:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 20, 2023 18:09:42.62 [22048:7860:0420/180942.624:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 20, 2023 18:09:42.62 [22048:22176:0420/180942.624:ERROR:sharing_service.cc(210)] Device registration failed with transient error
+Apr 20, 2023 18:10:27.70 [22048:7860:0420/181027.701:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 20, 2023 18:11:02.70 [22048:7860:0420/181102.707:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 20, 2023 18:11:04.19 [22048:7860:0420/181104.198:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 20, 2023 18:14:16.28 [22048:7860:0420/181416.284:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 20, 2023 18:14:44.98 [22048:7860:0420/181444.986:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 20, 2023 18:15:44.70 [22048:7860:0420/181544.701:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 20, 2023 18:17:14.03 [22048:7860:0420/181714.029:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 20, 2023 18:20:46.39 [22048:7860:0420/182046.398:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 20, 2023 18:21:04.22 [22048:7860:0420/182104.219:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 20, 2023 18:26:57.24 [22048:7860:0420/182657.244:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 20, 2023 18:26:57.24 [22048:22176:0420/182657.244:ERROR:sharing_service.cc(210)] Device registration failed with transient error
+Apr 20, 2023 18:33:18.85 [22048:7860:0420/183318.859:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 20, 2023 18:36:07.66 [22048:7860:0420/183607.669:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 20, 2023 18:36:36.01 [22048:7860:0420/183636.019:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 20, 2023 18:37:23.43 [22048:7860:0420/183723.432:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 20, 2023 18:39:16.62 [22048:7860:0420/183916.626:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 20, 2023 18:42:38.61 [22048:7860:0420/184238.614:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 20, 2023 18:43:18.87 [22048:7860:0420/184318.874:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 20, 2023 18:49:04.25 [22048:7860:0420/184904.258:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 20, 2023 18:49:04.25 [22048:22176:0420/184904.258:ERROR:sharing_service.cc(210)] Device registration failed with transient error
+Apr 20, 2023 18:49:38.29 [22048:7860:0420/184938.295:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Apr 20, 2023 18:57:12.11 [22048:7860:0420/185712.112:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Apr 20, 2023 22:02:46.96 [22048:7860:0420/220246.968:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Apr 25, 2023 21:46:36.14 [22048:7860:0425/214636.148:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 25, 2023 21:46:36.14 [22048:7860:0425/214636.148:ERROR:checkin_request.cc(241)] Check-in request got net error: -106
+Apr 25, 2023 21:46:36.14 [22048:7860:0425/214636.148:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 25, 2023 21:46:36.15 [22048:7860:0425/214636.148:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 25, 2023 21:46:36.15 [22048:7860:0425/214636.156:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 25, 2023 21:46:59.60 [22048:7860:0425/214659.605:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 25, 2023 21:47:02.10 [22048:7860:0425/214702.101:ERROR:checkin_request.cc(241)] Check-in request got net error: -106
+Apr 25, 2023 21:47:05.48 [22048:7860:0425/214705.481:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 25, 2023 21:47:06.13 [22048:7860:0425/214706.130:ERROR:registration_request.cc(249)] Registration URL fetching failed.
+Apr 25, 2023 21:47:09.93 [22048:22176:0425/214709.939:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 25, 2023 21:47:09.94 [22048:22176:0425/214709.947:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 25, 2023 21:47:10.36 [22048:22176:0425/214710.359:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+
+May 04, 2023 17:24:21.83 NEW SESSION
+May 04, 2023 17:24:21.83 [18400:2632:0504/172421.831:ERROR:device_event_log_impl.cc(222)] [17:24:21.831] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 04, 2023 17:24:21.83 [18400:2632:0504/172421.831:ERROR:device_event_log_impl.cc(222)] [17:24:21.831] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 04, 2023 17:24:21.89 [18400:3972:0504/172421.891:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 04, 2023 17:24:22.66 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+May 04, 2023 17:24:48.39 [18400:3972:0504/172448.394:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 04, 2023 17:24:53.87 [18400:2632:0504/172453.875:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+May 04, 2023 17:24:54.18 [18400:2632:0504/172454.185:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+May 04, 2023 17:24:54.76 [18400:2632:0504/172454.765:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+May 04, 2023 17:25:33.30 [18400:3972:0504/172533.302:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 04, 2023 18:08:21.88 [18400:6600:0504/180821.879:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+May 04, 2023 18:08:21.88 ERROR: Couldn't read tbsCertificate as SEQUENCE
+May 04, 2023 18:08:21.88 ERROR: Failed parsing Certificate
+May 04, 2023 18:08:21.88 
+May 04, 2023 18:08:27.51 [18400:4964:0504/180827.517:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+May 04, 2023 18:08:27.51 ERROR: Couldn't read tbsCertificate as SEQUENCE
+May 04, 2023 18:08:27.51 ERROR: Failed parsing Certificate
+May 04, 2023 18:08:27.51 
+May 04, 2023 18:15:03.28 [18400:4964:0504/181503.279:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+May 04, 2023 18:15:03.28 ERROR: Couldn't read tbsCertificate as SEQUENCE
+May 04, 2023 18:15:03.28 ERROR: Failed parsing Certificate
+May 04, 2023 18:15:03.28 
+May 04, 2023 18:15:04.34 [18400:4964:0504/181504.339:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+May 04, 2023 18:15:04.34 ERROR: Couldn't read tbsCertificate as SEQUENCE
+May 04, 2023 18:15:04.34 ERROR: Failed parsing Certificate
+May 04, 2023 18:15:04.34 
+May 04, 2023 18:15:04.72 [18400:6600:0504/181504.727:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+May 04, 2023 18:15:04.72 ERROR: Couldn't read tbsCertificate as SEQUENCE
+May 04, 2023 18:15:04.72 ERROR: Failed parsing Certificate
+May 04, 2023 18:15:04.72 
+May 04, 2023 18:15:07.07 [18400:6600:0504/181507.071:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+May 04, 2023 18:15:07.07 ERROR: Couldn't read tbsCertificate as SEQUENCE
+May 04, 2023 18:15:07.07 ERROR: Failed parsing Certificate
+May 04, 2023 18:15:07.07 
+May 04, 2023 18:15:12.09 [18400:4964:0504/181512.098:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+May 04, 2023 18:15:12.09 ERROR: Couldn't read tbsCertificate as SEQUENCE
+May 04, 2023 18:15:12.09 ERROR: Failed parsing Certificate
+May 04, 2023 18:15:12.10 
+May 04, 2023 18:21:48.13 [18400:3972:0504/182148.130:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+May 04, 2023 18:22:48.44 [18400:3972:0504/182248.446:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 04, 2023 18:23:10.66 [18400:3972:0504/182310.659:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 04, 2023 18:23:54.75 [18400:3972:0504/182354.750:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 04, 2023 18:25:49.60 [18400:3972:0504/182549.607:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 04, 2023 18:41:02.74 [18400:3972:0504/184102.744:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 04, 2023 19:00:29.19 [18400:3972:0504/190029.194:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 04, 2023 19:10:29.20 [18400:3972:0504/191029.199:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 04, 2023 19:20:29.20 [18400:3972:0504/192029.201:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+
+May 05, 2023 16:37:23.74 NEW SESSION
+May 05, 2023 16:37:23.74 [16604:10904:0505/163723.737:ERROR:device_event_log_impl.cc(222)] [16:37:23.737] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 05, 2023 16:37:23.74 [16604:10904:0505/163723.738:ERROR:device_event_log_impl.cc(222)] [16:37:23.737] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 05, 2023 16:37:23.81 [16604:20120:0505/163723.812:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 05, 2023 16:37:24.52 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+May 05, 2023 16:37:42.40 [16604:20120:0505/163742.407:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 05, 2023 16:38:24.45 [16604:20120:0505/163824.452:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 05, 2023 16:40:08.62 [16604:20120:0505/164008.623:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 05, 2023 16:43:00.29 [16604:20120:0505/164300.295:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 05, 2023 16:48:22.72 [16604:20120:0505/164822.724:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 05, 2023 16:58:22.74 [16604:20120:0505/165822.737:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 05, 2023 17:08:22.74 [16604:20120:0505/170822.745:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 05, 2023 17:18:22.75 [16604:20120:0505/171822.752:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 05, 2023 17:24:52.97 [16604:10904:0505/172452.975:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+May 05, 2023 17:24:53.04 [16604:10904:0505/172453.046:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+May 05, 2023 17:24:54.18 [16604:10904:0505/172454.182:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+May 05, 2023 17:28:22.76 [16604:20120:0505/172822.766:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 05, 2023 17:38:22.77 [16604:20120:0505/173822.772:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 05, 2023 17:48:22.77 [16604:20120:0505/174822.776:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+
+May 08, 2023 17:05:33.11 NEW SESSION
+May 08, 2023 17:05:33.11 [14676:25504:0508/170533.111:ERROR:device_event_log_impl.cc(222)] [17:05:33.111] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 08, 2023 17:05:33.11 [14676:25504:0508/170533.111:ERROR:device_event_log_impl.cc(222)] [17:05:33.111] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 08, 2023 17:05:33.17 [14676:13644:0508/170533.170:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 08, 2023 17:05:33.17 [14676:13644:0508/170533.171:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+May 08, 2023 17:05:33.84 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+May 08, 2023 17:05:53.30 [14676:13644:0508/170553.299:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+May 08, 2023 17:05:54.75 [14676:13644:0508/170554.750:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 08, 2023 17:06:04.44 [14676:25504:0508/170604.447:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+May 08, 2023 17:06:05.65 [14676:25504:0508/170605.656:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+May 08, 2023 17:06:05.82 [14676:25504:0508/170605.828:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+May 08, 2023 17:06:38.51 [14676:13644:0508/170638.515:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+May 08, 2023 17:06:41.62 [14676:13644:0508/170641.628:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 08, 2023 17:08:34.44 [14676:13644:0508/170834.443:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+May 08, 2023 17:08:34.87 [14676:13644:0508/170834.877:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 08, 2023 17:15:48.24 [14676:13644:0508/171548.243:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 08, 2023 17:15:48.24 [14676:13644:0508/171548.245:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+May 08, 2023 17:22:09.10 [14676:13644:0508/172209.099:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+May 08, 2023 17:22:49.63 [14676:13644:0508/172249.633:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 08, 2023 17:32:49.65 [14676:13644:0508/173249.649:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 08, 2023 17:42:49.66 [14676:13644:0508/174249.663:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 08, 2023 17:52:49.67 [14676:13644:0508/175249.671:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 08, 2023 18:02:49.68 [14676:13644:0508/180249.687:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 08, 2023 18:12:49.69 [14676:13644:0508/181249.699:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 08, 2023 18:22:49.70 [14676:13644:0508/182249.704:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 08, 2023 18:32:49.71 [14676:13644:0508/183249.710:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+
+May 10, 2023 17:00:21.67 NEW SESSION
+May 10, 2023 17:00:21.67 [25416:3048:0510/170021.675:ERROR:device_event_log_impl.cc(222)] [17:00:21.675] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 10, 2023 17:00:21.67 [25416:3048:0510/170021.675:ERROR:device_event_log_impl.cc(222)] [17:00:21.676] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 10, 2023 17:00:21.72 [25416:23352:0510/170021.723:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 10, 2023 17:00:21.72 [25416:23352:0510/170021.724:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+May 10, 2023 17:00:21.72 [25416:23352:0510/170021.724:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+May 10, 2023 17:00:21.72 [25416:23352:0510/170021.724:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+May 10, 2023 17:00:21.72 [25416:23352:0510/170021.725:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+May 10, 2023 17:00:21.72 [25416:23352:0510/170021.725:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+May 10, 2023 17:00:22.58 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+May 10, 2023 17:00:44.91 [25416:23352:0510/170044.915:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 10, 2023 17:00:44.91 [25416:23352:0510/170044.916:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+May 10, 2023 17:00:45.88 [25416:23352:0510/170045.887:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+May 10, 2023 17:00:49.22 [25416:23352:0510/170049.223:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+May 10, 2023 17:00:49.42 [25416:23352:0510/170049.425:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+May 10, 2023 17:00:51.13 [25416:23352:0510/170051.132:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+May 10, 2023 17:00:52.70 [25416:3048:0510/170052.703:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+May 10, 2023 17:00:52.78 [25416:3048:0510/170052.780:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+May 10, 2023 17:00:54.43 [25416:3048:0510/170054.431:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+May 10, 2023 17:01:27.09 [25416:23352:0510/170127.090:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+May 10, 2023 17:01:29.55 [25416:23352:0510/170129.549:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+May 10, 2023 17:01:32.21 [25416:23352:0510/170132.218:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+May 10, 2023 17:01:35.01 [25416:23352:0510/170135.012:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+May 10, 2023 17:01:36.92 [25416:23352:0510/170136.927:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 10, 2023 17:01:47.13 [25416:23352:0510/170147.138:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+May 10, 2023 17:02:51.24 [25416:23352:0510/170251.239:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+May 10, 2023 17:02:59.96 [25416:23352:0510/170259.964:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+May 10, 2023 17:03:04.39 [25416:23352:0510/170304.389:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+May 10, 2023 17:03:14.89 [25416:23352:0510/170314.895:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+May 10, 2023 17:03:15.21 [25416:23352:0510/170315.217:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+May 10, 2023 17:03:16.50 [25416:23352:0510/170316.501:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 10, 2023 17:05:32.47 [25416:23352:0510/170532.474:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+May 10, 2023 17:06:29.97 [25416:23352:0510/170629.973:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+May 10, 2023 17:06:30.00 [25416:23352:0510/170630.005:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 10, 2023 17:06:36.79 [25416:23352:0510/170636.790:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+May 10, 2023 17:06:39.27 [25416:23352:0510/170639.269:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+May 10, 2023 17:06:59.10 [25416:23352:0510/170659.101:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+
+May 11, 2023 17:05:41.45 NEW SESSION
+May 11, 2023 17:05:41.45 [11136:8832:0511/170541.457:ERROR:device_event_log_impl.cc(222)] [17:05:41.457] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 11, 2023 17:05:41.46 [11136:8832:0511/170541.457:ERROR:device_event_log_impl.cc(222)] [17:05:41.458] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 11, 2023 17:05:41.47 [11136:16732:0511/170541.476:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 11, 2023 17:05:41.70 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+May 11, 2023 17:06:08.96 [11136:16732:0511/170608.963:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 11, 2023 17:07:01.44 [11136:16732:0511/170701.445:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 11, 2023 17:08:41.46 [11136:16732:0511/170841.459:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 11, 2023 17:11:38.12 [11136:16732:0511/171138.128:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 11, 2023 17:19:05.79 [11136:16732:0511/171905.799:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 11, 2023 17:29:05.81 [11136:16732:0511/172905.810:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 11, 2023 17:39:05.81 [11136:16732:0511/173905.816:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 11, 2023 17:55:56.97 [11136:16732:0511/175556.975:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+May 11, 2023 18:10:29.58 [11136:16732:0511/181029.586:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 11, 2023 18:10:58.70 [11136:16732:0511/181058.700:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 11, 2023 18:12:00.91 [11136:16732:0511/181200.910:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 11, 2023 18:13:38.82 [11136:16732:0511/181338.825:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 11, 2023 18:17:18.76 [11136:16732:0511/181718.761:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 11, 2023 18:23:17.97 [11136:16732:0511/182317.975:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+
+May 12, 2023 16:57:42.08 NEW SESSION
+May 12, 2023 16:57:42.08 [24144:2992:0512/165742.033:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+May 12, 2023 16:57:47.10 [24144:2992:0512/165747.108:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+May 12, 2023 18:24:23.23 [24144:2992:0512/182423.235:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+May 12, 2023 18:24:25.24 [24144:2992:0512/182425.246:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 12, 2023 18:26:24.77 [24144:2992:0512/182624.777:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 12, 2023 18:26:59.29 [24144:2992:0512/182659.297:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 12, 2023 18:27:51.08 [24144:2992:0512/182751.084:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 12, 2023 18:29:43.59 [24144:2992:0512/182943.592:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 12, 2023 18:33:20.52 [24144:2992:0512/183320.522:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 12, 2023 18:41:12.89 [24144:2992:0512/184112.898:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 12, 2023 18:51:12.91 [24144:2992:0512/185112.917:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 12, 2023 19:01:12.92 [24144:2992:0512/190112.925:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 12, 2023 19:11:12.93 [24144:2992:0512/191112.931:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 12, 2023 19:21:12.94 [24144:2992:0512/192112.940:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 12, 2023 19:34:30.64 [24144:2992:0512/193430.642:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 12, 2023 19:44:30.65 [24144:2992:0512/194430.657:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 12, 2023 19:54:30.68 [24144:2992:0512/195430.683:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 12, 2023 20:04:30.70 [24144:2992:0512/200430.701:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 12, 2023 20:14:30.71 [24144:2992:0512/201430.716:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+May 13, 2023 15:12:13.64 NEW SESSION
+May 13, 2023 15:12:13.64 [9176:11468:0513/151213.643:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+May 13, 2023 15:46:26.43 [9176:11468:0513/153244.892:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+May 13, 2023 15:46:31.44 [9176:11468:0513/154631.440:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+May 13, 2023 16:47:34.60 [9176:11468:0513/164734.607:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+May 13, 2023 16:47:39.38 [9176:11468:0513/164739.384:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+May 13, 2023 17:41:40.76 [9176:11468:0513/174140.762:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+May 13, 2023 17:44:55.39 [9176:11468:0513/174455.392:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+May 13, 2023 17:44:55.43 [9176:11468:0513/174455.432:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+May 13, 2023 17:47:15.71 [9176:11468:0513/174715.717:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+May 13, 2023 17:48:24.00 [9176:11468:0513/174824.002:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+May 13, 2023 17:48:32.10 [9176:11468:0513/174832.103:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 13, 2023 17:49:18.83 [9176:11468:0513/174918.829:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 13, 2023 17:50:59.43 [9176:11468:0513/175059.430:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 13, 2023 17:54:47.19 [9176:11468:0513/175447.196:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 13, 2023 17:59:42.63 [9176:11468:0513/175942.639:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+May 13, 2023 17:59:52.90 [9176:11468:0513/175952.906:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+May 13, 2023 18:00:31.29 [9176:11468:0513/180031.297:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 13, 2023 18:02:03.95 [9176:11468:0513/180203.956:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 13, 2023 18:02:59.62 [9176:11468:0513/180259.621:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 13, 2023 18:04:50.73 [9176:11468:0513/180450.728:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 13, 2023 18:07:53.31 [9176:11468:0513/180753.318:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 13, 2023 18:14:04.19 [9176:11468:0513/181404.195:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 13, 2023 18:24:10.28 [9176:11468:0513/182410.288:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 13, 2023 18:26:08.16 [9176:14480:0513/182608.164:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+May 13, 2023 18:26:08.16 [9176:14480:0513/182608.164:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+May 13, 2023 18:26:08.16 [9176:14480:0513/182608.164:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+May 13, 2023 18:34:16.38 [9176:11468:0513/183416.387:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 13, 2023 18:44:22.48 [9176:11468:0513/184422.486:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 13, 2023 18:54:22.49 [9176:11468:0513/185422.498:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 13, 2023 19:03:21.49 [9176:9636:0513/190321.498:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+May 13, 2023 19:04:06.54 [9176:9636:0513/190406.512:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+May 13, 2023 19:04:22.50 [9176:11468:0513/190422.507:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 13, 2023 19:05:14.02 [9176:9636:0513/190514.022:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+
+May 17, 2023 17:09:01.89 NEW SESSION
+May 17, 2023 17:09:01.89 [12724:21400:0517/170901.888:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+May 17, 2023 17:09:01.89 ERROR: Couldn't read tbsCertificate as SEQUENCE
+May 17, 2023 17:09:01.89 ERROR: Failed parsing Certificate
+May 17, 2023 17:09:01.89 
+May 17, 2023 17:12:44.50 [12724:11756:0517/171244.507:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+May 17, 2023 17:13:06.45 [12724:11756:0517/171306.453:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+May 17, 2023 17:13:13.31 [12724:11756:0517/171313.310:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+May 17, 2023 17:13:20.42 [12724:11756:0517/171320.427:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+May 17, 2023 17:13:26.35 [12724:11756:0517/171326.357:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+May 17, 2023 17:13:28.73 [12724:11756:0517/171328.739:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+May 17, 2023 17:13:35.42 [12724:11756:0517/171335.422:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+May 17, 2023 17:13:38.58 [12724:11756:0517/171338.589:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+May 17, 2023 17:13:46.68 [12724:11756:0517/171346.682:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 17, 2023 17:14:01.12 [12724:11756:0517/171401.126:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+May 17, 2023 17:14:03.68 [12724:11756:0517/171403.684:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+May 17, 2023 17:14:16.56 [12724:11756:0517/171416.562:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+May 17, 2023 17:14:30.01 [12724:11756:0517/171430.004:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 17, 2023 17:15:01.41 [12724:11756:0517/171501.417:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+May 17, 2023 17:15:10.18 [12724:11756:0517/171510.189:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+May 17, 2023 17:15:12.74 [12724:11756:0517/171512.742:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+May 17, 2023 17:15:26.70 [12724:11756:0517/171526.700:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+May 17, 2023 17:15:37.41 [12724:11756:0517/171537.413:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+May 17, 2023 17:15:48.18 [12724:11756:0517/171548.183:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+May 17, 2023 17:15:56.33 [12724:11756:0517/171556.339:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 17, 2023 17:16:12.90 [12724:11756:0517/171612.905:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+May 17, 2023 17:16:33.42 [12724:11756:0517/171633.427:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+May 17, 2023 17:16:37.91 [12724:11756:0517/171637.906:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+May 17, 2023 17:16:51.42 [12724:11756:0517/171651.421:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+May 17, 2023 17:16:55.90 [12724:11756:0517/171655.902:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+May 17, 2023 17:16:57.98 [12724:11756:0517/171657.984:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+May 17, 2023 17:17:23.56 [12724:11756:0517/171723.567:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+May 17, 2023 17:17:50.03 [12724:11756:0517/171750.037:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+May 17, 2023 18:14:26.43 [12724:11756:0517/181426.439:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+May 17, 2023 18:33:26.20 [12724:11756:0517/183326.206:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+
+May 19, 2023 17:53:10.61 NEW SESSION
+May 19, 2023 17:53:10.61 [20680:5364:0519/175304.100:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+May 19, 2023 17:53:41.11 [20680:5364:0519/175341.116:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+
+Mar 05, 2024 20:09:42.87 NEW SESSION
+Mar 05, 2024 20:09:42.87 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 05, 2024 20:13:29.63 [17332:26152:0305/201329.633:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+Mar 05, 2024 20:13:29.63 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Mar 05, 2024 20:13:29.63 ERROR: Failed parsing Certificate
+Mar 05, 2024 20:13:29.63 
+Mar 05, 2024 20:16:16.07 [17332:26152:0305/201616.072:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+Mar 05, 2024 20:16:16.07 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Mar 05, 2024 20:16:16.07 ERROR: Failed parsing Certificate
+Mar 05, 2024 20:16:16.07 

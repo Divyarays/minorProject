@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [06/Apr/2023:12:17:25 +0530] "POST /ORS_Project4/LoginCtl HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [06/Apr/2023:12:17:25 +0530] "GET /ORS_Project4/UserRegistrationCtl HTTP/1.1" 200 5746
+0:0:0:0:0:0:0:1 - - [06/Apr/2023:12:17:25 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 742
+0:0:0:0:0:0:0:1 - - [06/Apr/2023:12:17:25 +0530] "GET /ORS_Project4/img/customLogo.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [06/Apr/2023:12:18:07 +0530] "GET /ORS_Project4/LoginCtl HTTP/1.1" 200 3043
